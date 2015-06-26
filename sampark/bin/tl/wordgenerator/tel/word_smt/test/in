@@ -1,0 +1,41 @@
+1	((	NP	<fs af='Pilmu,n,n,sg,3,d,0,0' head=फिल्म drel=k1:9 name=1>
+1.1	Pilmu	NN	<fs af='Pilmu,n,n,sg,3,d,0,0' name=फिल्म>
+	))		
+2	((	NP	<fs af='moVxalu,n,n,sg,3,d,0,0' head=शुरू drel=k7t:9 name=2>
+2.1		NN	<fs af='-0,n,n,sg,3,d,0,0' name=शुरू>
+	))		
+3	((	VGNN	<fs af='avvu,v,m,sg,any,,ina,nA' head='होने'  vpos='tam1_2'  drel='r6:4'  name='3'>
+3.1	moVxalayina	VM	<fs af='moVxalavvu,v,m,sg,any,,ina,nA' name=होने>
+	))		
+4	((	NP	<fs af='nimiRaM,n,n,pl,3,o,waruvAwa,0' vpos=vib2_3_RP head=मिनट drel=k7t:9 name=4>
+4.1	10	QC	<fs af='10,num,,,,,,'>
+4.2	nimiRAla waruvAwa	NN	<fs af='nimiRaM,n,n,pl,3,o,waruvAwa,0' name=मिनट>
+4.3	e	RP	<fs af='e,psp,,,,,,' name='ही'>
+	))		
+5	((	NP	<fs af='vaha,pn,n,sg,3,d,0,0_dist' head=वह name=5>
+5.1	axi	PRP	<fs af='vaha,pn,n,sg,3,d,0,0_dist' name=वह>
+	))		
+6	((	JJP	<fs af='BArI,adj,,,,any,,' head=बोझिल drel=nmod:11 name=6>
+6.1	iMwa	QF	<fs af='iMwa,psp,,,,,,' name='इतनी'>
+6.2	BArI	JJ	<fs af='BArI,adj,,,,any,,' name=बोझिल>
+	))		
+7	((	CCP	<fs af='mare,avy,,,,,,' head='और'  name='7'>
+7.1	mariyu	CC	<fs af='mariyu,avy,,,,,,' name='और'>
+	))		
+8	((	JJP	<fs af='biKarI,n,f,any,,any,,' head='बिखरी'  name='8'>
+8.1	ceVxirinatlu	JJ	<fs af='ceVxirinatlu,n,f,any,,any,,' name=बिखरी>
+	))		
+9	((	VGF	<fs af='kuttu,v,m,sg,3,,wA,wA' vpos=tam1_2 head=लगती name=9>
+9.1	anipiMcuwAdu	VM	<fs af='anipiMcu,v,m,sg,3,,wA,wA' name=लगती>
+	))		
+10	((	CCP	<fs af='emaMte,avy,,,,,,' head='कि'  name='10'>
+10.1	emaMte	CC	<fs af='emaMte,avy,,,,,,' name='कि'>
+	))		
+11	((	NP	<fs af='prekRakudu,n,m,sg,3,d,0,0' head=दर्शक drel=k1:12 name=11>
+11.1	prekRakudu	NN	<fs af='prekRakudu,n,m,sg,3,d,0,0' name=दर्शक>
+	))		
+12	((	VGF	<fs af='xAriwappu,v,m,sg,3,,a_moVxalupeVttu_wA,nA' head=भटकने drel=vpos=tam1_2_3 name=12>
+12.1	xAriwappa	VM	<fs af='xAriwappu,v,m,sg,3,,an,nA' head= drel=name=भटकने>
+12.2	moVxalupeVdawAdu	VAUX	<fs af='moVxalupeVttu,v,m,sg,3,,wA,'>
+12.3	.	SYM	<fs af='&dot;,punc,,,,,,' poslcat='NM'>
+	))		

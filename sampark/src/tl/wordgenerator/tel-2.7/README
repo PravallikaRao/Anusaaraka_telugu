@@ -1,0 +1,68 @@
+						TELUGU WORD GENERATOR 2.5.3
+						-------------------------
+
+HINDI WORD GENERATOR: 
+---------------------
+
+The task of word generator is to generate a inflected word form given the root and its feature structure(like category, number, gender, person, TAM/case marker). The input for the generator would be the root word along with its feature structure. The generator then inflects the root word according to the morphology of the language   and outputs the target language word form. The words thus generated are concatenated to form  the complete target language sentence.
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl and SSF API's
+
+For installation on Linux, please refer to the file INSTALL.
+
+
+Directory Structure:
+--------------------
+
+telwordgen
+     |
+     |---API (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |
+     |---word_smt (word smoother with joins the words)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL  (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version inforamation)
+     |
+     |---Makefile (first level make file for copying the module source in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation/copying in the bin and data_bin directory)
+     |
+     |---wordgen_convert.sh (to run the module)
+     |
+     |---telwordgen.sh (for dashboard spec file)
+     |
+     |---telwordgen.spec (individual run the pruning module with dashboard)
+     |
+     |---tel_gen.pl (main file of telgenrator)
+
+
+
+
+How to Use??
+------------
+
+1. perl $setu/bin/tl/wordgenerator-2.0/tel_gen.pl --path=$setu/bin/tl/wordgenerator-2.0 --input=$setu/bin/tl/wordgenerator-2.0/tests/telwordgen.rin
+
+   *sample input and output files are provided in the tests dir namely telwordgen.rin telwordgen.rout
+
+2. perl $setu/bin/tl/wordgenerator/tel_gen.pl --help
+   for display the help
+
+
+#################################
+Author: Christopher M
+	CALTS	
+	 HCU,Hyderabad	
+Any Quries or suggestions mail to
+efthachris@gmail.com
+#################################
+

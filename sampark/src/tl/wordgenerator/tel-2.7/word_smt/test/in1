@@ -1,0 +1,29 @@
+1	((	SSF	
+1.1	((	NP	<fs af='kAci,n,n,sg,,d,0,0' head='kARI'  name='1'>
+1.1.1	kAci	NNP	<fs af='kAci,n,n,sg,,d,0,0' name='kARI'>
+	))		
+1.2	((	NP	<fs af='inwu,n,m,sg,,d,0,0' head='himÞ'  name='2'>
+1.2.1	inwu	NNP	<fs af='inwu,n,m,sg,,d,0,0' name='himÞ'>
+	))		
+1.3	((	NP	<fs af='palkalEkkalYYakam,n,n,sg,,d,0,0' head='viRvavièyAlayam'  name='3'>
+1.3.1	palkalEkkalYYakam	NN	<fs af='palkalEkkalYYakam,n,n,sg,,d,0,0' name='viRvavièyAlayam'>
+	))		
+1.4	((	NP	<fs af='ikkati,avy,,,,,0,0_avy' head='ikki'  name='4'  poslcat='NM'>
+1.4.1	ifke	NST	<fs af='ifke,avy,,,,,,'>
+	))		
+1.5	((	NP	<fs af='warYpowu,n,n,sg,,o,ti,ti' head='praswuwa'  vpos='vib1'  name='5'>
+1.5.1	warYpowuk	NN	<fs af='warYpowuk,n,n,sg,,o,ti,ti' name='praswuwa'>
+	))		
+1.6	((	NP	<fs af='arYivu,n,n,sg,,,0,0' head='vièyA'  name='6'>
+1.6.1	kalvi	NN	<fs af='kalvi,n,n,sg,,,0,0' name='vièyA'>
+	))		
+1.7	((	NP	<fs af='nirYuvanYam,n,n,pl,,,il,lo' vpos='vib1'  head='samslalo'  name='7'>
+1.7.1	nirYuvanYafkalYil	NN	<fs af='nirYuvanYam,n,n,pl,,,il,lo' name='samslalo'>
+	))		
+1.8	((	NP	<fs af='mukkiyam,n,n,sg,3,,AnYa_awu,xEnaxi_na_adj' head='muèyamEni'  vpos='vib1'  name='8'>
+1.8.1	mukkiyamAnYa	NN	<fs af='mukkiyam,n,n,sg,3,,AnYa,xEnaxi_na_adj' name='muèyamEni'>
+1.8.2	e	RP	<fs af='e,psp,,,,,,'>
+1.8.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+	))		
+

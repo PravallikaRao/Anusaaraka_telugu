@@ -1,0 +1,35 @@
+1	((	NP	<fs af='ikkada,adv,,,,,,' head='यहां'  drel='k7p:4'  name='1'  poslcat='NM'>
+1.1	ikkada	PRP	<fs af='ikkada,adv,,,,,,' name=यहां>
+	))		
+2	((	VGNF	<fs af='ceVppu,v,n,sg,any,,a_badu_e,yA' head=बोली vpos=tam1_2_3 drel=nmod:3 name=2>
+2.1	ceVppa	VM	<fs af='ceVppu,v,n,sg,any,,an,yA' name=बोली>
+2.2	badu	VAUX	<fs af='badu,v,n,sg,any,,,'>
+2.3	e	VAUX	<fs af='e,v,n,sg,any,,,'>
+	))		
+3	((	NP	<fs af='BARa,n,n,pl,3,d,0,0' head=भाषायें drel=k1:4 name=3>
+3.1	muKya	JJ	<fs af='muKya,adj,,,,any,,'>
+3.2	BARalu	NN	<fs af='BARa,n,n,pl,3,d,0,0' name=भाषायें>
+	))		
+4	((	VGF	<fs af='uMdu,v,n,pl,3,,ina,hE' head= drel=head=है name=4>
+4.1	unnavAlYlu	VM	<fs af='uMdu,v,n,pl,3,,ina_vAlYlu,hE' head= drel=name=है>
+4.2	:	SYM	<fs af='&col;,punc,,,,,,' poslcat='NM'>
+	))		
+5	((	NP	<fs af='hiMxI,n,n,sg,3,d,0,0' head=हिंदी name=5>
+5.1	hiMxI	NN	<fs af='hiMxI,n,n,sg,3,d,0,0' name=हिंदी>
+5.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat='NM'>
+	))		
+6	((	NP	<fs af='urxU,n,n,sg,3,d,0,0' head=उर्दू name=6>
+6.1	urxU	NN	<fs af='urxU,n,n,sg,3,d,0,0' name=उर्दू>
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat='NM'>
+	))		
+7	((	NP	<fs af='paMjAbI,n,n,sg,3,d,0,0' head=पंजाबी name=7>
+7.1	paMjAbI	NNP	<fs af='paMjAbI,n,n,sg,3,d,0,0' name=पंजाबी>
+7.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat='NM'>
+	))		
+8	((	CCP	<fs af='mare,avy,,,,,,' head='और'  name='8'>
+8.1	mariyu	CC	<fs af='mariyu,avy,,,,,,' name='और'>
+	))		
+9	((	NP	<fs af='AMglaM,n,n,pl,,0,0,0' head=अंग्रेज़ी name=9>
+9.1	AMglAlu	NN	<fs af='AMglaM,n,n,pl,,0,0,0' name=अंग्रेज़ी>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,' poslcat='NM'>
+	))		

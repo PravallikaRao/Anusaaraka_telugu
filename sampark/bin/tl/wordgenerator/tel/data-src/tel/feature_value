@@ -1,0 +1,1975 @@
+v iwi null sg 1
+v iwi null sg 2
+v iwi n pl 3
+v iwi null pl 1
+v iwi null pl 2
+v iwi fm pl 3
+v iwi_le null sg 1
+v iwi_le null sg 2
+v iwi_le n pl 3
+v iwi_le null pl 1
+v iwi_le null pl 2
+v iwi_le fm pl 3
+v iwi_leVMdi null sg 1
+v iwi_leVMdi null sg 2
+v iwi_leVMdi n pl 3
+v iwi_leVMdi null pl 1
+v iwi_leVMdi null pl 2
+v iwi_leVMdi fm pl 3
+v iwi_o null sg 1
+v iwi_o null sg 2
+v iwi_o n pl 3
+v iwi_o null pl 1
+v iwi_o null pl 2
+v iwi_o fm pl 3
+v iwi_e null sg 1
+v iwi_e null sg 2
+v iwi_e n pl 3
+v iwi_e null pl 1
+v iwi_e null pl 2
+v iwi_e fm pl 3
+v iwi_aMdi null sg 1
+v iwi_aMdi null sg 2
+v iwi_aMdi n pl 3
+v iwi_aMdi null pl 1
+v iwi_aMdi null pl 2
+v iwi_aMdi fm pl 3
+v iwi_alle null sg 1
+v iwi_alle null sg 2
+v iwi_alle n pl 3
+v iwi_alle null pl 1
+v iwi_alle null pl 2
+v iwi_alle fm pl 3
+v iwi_rA null sg 1
+v iwi_rA null sg 2
+v iwi_rA n pl 3
+v iwi_rA null pl 1
+v iwi_rA null pl 2
+v iwi_rA fm pl 3
+v iwi_ani null sg 1
+v iwi_ani null sg 2
+v iwi_ani n pl 3
+v iwi_ani null pl 1
+v iwi_ani null pl 2
+v iwi_ani fm pl 3
+v iwi_ata null sg 1
+v iwi_ata null sg 2
+v iwi_ata n pl 3
+v iwi_ata null pl 1
+v iwi_ata null pl 2
+v iwi_ata fm pl 3
+v iwi_uta null sg 1
+v iwi_uta null sg 2
+v iwi_uta n pl 3
+v iwi_uta null pl 1
+v iwi_uta null pl 2
+v iwi_uta fm pl 3
+v iwi_annamAta null sg 1
+v iwi_annamAta null sg 2
+v iwi_annamAta n pl 3
+v iwi_annamAta null pl 1
+v iwi_annamAta null pl 2
+v iwi_annamAta fm pl 3
+v iwi_A null sg 1
+v iwi_A null sg 2
+v iwi_A n pl 3
+v iwi_A null pl 1
+v iwi_A null pl 2
+v iwi_A fm pl 3
+v inA any any any
+v inA_gAni any any any
+v inA_gaxU any any any
+v inA_gUdA any any any
+v inA_sare any any any
+v we any any any
+v we_A any any any
+v we_e any any any
+v we_o any any any
+v we_gA any any any
+v we_gAni any any any
+v we_gaxa any any any
+v we_e_gaxa any any any
+v we_ganuka any any any
+v we_gUdA any any any
+v we_wappa any any any
+v we_mAlle any any any
+v we_attuMxi any any any
+v we_ata any any any
+v we_mari any any any
+v we_annA any any any
+v e any any any
+v e_atlu any any any
+v e_atuvaMti any any any
+v e_lA any any any
+v e_muMxu any any any
+v e_appudu any any any
+v e_sariki any any any
+v e_pAtiki any any any
+v e_varaku any any any
+v e_kannA any any any
+v e_eMxuku any any any
+v e_valla any any any
+v e_anni any any any
+v e_aMwa any any any
+v e_aMwagA any any any
+v e_aMwasepu any any any
+v e_aMwalo any any any
+v e_aMwavaraku any any any
+v e_lopala any any any
+v e_lopuna any any any
+v e_xAkA any any any
+v e_koVxxi any any any
+v uxu null sg 1
+v uxu null sg 2
+v uxu n pl 3
+v uxu fm sg 3
+v uxu null pl 1
+v uxu_le null sg 1
+v uxu_le null sg 2
+v uxu_le n pl 3
+v uxu_le fm sg 3
+v uxu_le null pl 1
+v uxu_leVMdi null sg 1
+v uxu_leVMdi null sg 2
+v uxu_leVMdi n pl 3
+v uxu_leVMdi fm sg 3
+v uxu_leVMdi null pl 1
+v uxu_o null sg 1
+v uxu_o null sg 2
+v uxu_o n pl 3
+v uxu_o fm sg 3
+v uxu_o null pl 1
+v uxu_e null sg 1
+v uxu_e null sg 2
+v uxu_e n pl 3
+v uxu_e fm sg 3
+v uxu_e null pl 1
+v uxu_aMdi null sg 1
+v uxu_aMdi null sg 2
+v uxu_aMdi n pl 3
+v uxu_aMdi fm sg 3
+v uxu_aMdi null pl 1
+v uxu_alle null sg 1
+v uxu_alle null sg 2
+v uxu_alle n pl 3
+v uxu_alle fm sg 3
+v uxu_alle null pl 1
+v uxu_rA null sg 1
+v uxu_rA null sg 2
+v uxu_rA n pl 3
+v uxu_rA fm sg 3
+v uxu_rA null pl 1
+v uxu_ani null sg 1
+v uxu_ani null sg 2
+v uxu_ani n pl 3
+v uxu_ani fm sg 3
+v uxu_ani null pl 1
+v uxu_ata null sg 1
+v uxu_ata null sg 2
+v uxu_ata n pl 3
+v uxu_ata fm sg 3
+v uxu_ata null pl 1
+v uxu_uta null sg 1
+v uxu_uta null sg 2
+v uxu_uta n pl 3
+v uxu_uta fm sg 3
+v uxu_uta null pl 1
+v uxu_annamAta null sg 1
+v uxu_annamAta null sg 2
+v uxu_annamAta n pl 3
+v uxu_annamAta fm sg 3
+v uxu_annamAta null pl 1
+v uxu_A null sg 1
+v uxu_A null sg 2
+v uxu_A n pl 3
+v uxu_A fm sg 3
+v uxu_A null pl 1
+v wunn null sg 1
+v wunn null sg 2
+v wunn m sg 3
+v wunn fm pl 3 
+v wunn null pl 1
+v wunn fn sg 3
+v wunn n pl 3
+v wunn_le null sg 1
+v wunn_le null sg 2
+v wunn_le m sg 3
+v wunn_le fm pl 3 
+v wunn_le null pl 1
+v wunn_le fn sg 3
+v wunn_le n pl 3
+v wunn_leVMdi null sg 1
+v wunn_leVMdi null sg 2
+v wunn_leVMdi m sg 3
+v wunn_leVMdi fm pl 3 
+v wunn_leVMdi null pl 1
+v wunn_leVMdi fn sg 3
+v wunn_leVMdi n pl 3
+v wunn_o null sg 1
+v wunn_o null sg 2
+v wunn_o m sg 3
+v wunn_o fm pl 3 
+v wunn_o null pl 1
+v wunn_o fn sg 3
+v wunn_o n pl 3
+v wunn_e null sg 1
+v wunn_e null sg 2
+v wunn_e m sg 3
+v wunn_e fm pl 3 
+v wunn_e null pl 1
+v wunn_e fn sg 3
+v wunn_e n pl 3
+v wunn_aMdi null sg 1
+v wunn_aMdi null sg 2
+v wunn_aMdi m sg 3
+v wunn_aMdi fm pl 3 
+v wunn_aMdi null pl 1
+v wunn_aMdi fn sg 3
+v wunn_aMdi n pl 3
+v wunn_alle null sg 1
+v wunn_alle null sg 2
+v wunn_alle m sg 3
+v wunn_alle fm pl 3 
+v wunn_alle null pl 1
+v wunn_alle fn sg 3
+v wunn_alle n pl 3
+v wunn_rA null sg 1
+v wunn_rA null sg 2
+v wunn_rA m sg 3
+v wunn_rA fm pl 3 
+v wunn_rA null pl 1
+v wunn_rA fn sg 3
+v wunn_rA n pl 3
+v wunn_ani null sg 1
+v wunn_ani null sg 2
+v wunn_ani m sg 3
+v wunn_ani fm pl 3 
+v wunn_ani null pl 1
+v wunn_ani fn sg 3
+v wunn_ani n pl 3
+v wunn_ata null sg 1
+v wunn_ata null sg 2
+v wunn_ata m sg 3
+v wunn_ata fm pl 3 
+v wunn_ata null pl 1
+v wunn_ata fn sg 3
+v wunn_ata n pl 3
+v wunn_uta null sg 1
+v wunn_uta null sg 2
+v wunn_uta m sg 3
+v wunn_uta fm pl 3 
+v wunn_uta null pl 1
+v wunn_uta fn sg 3
+v wunn_uta n pl 3
+v wunn_annamAta null sg 1
+v wunn_annamAta null sg 2
+v wunn_annamAta m sg 3
+v wunn_annamAta fm pl 3 
+v wunn_annamAta null pl 1
+v wunn_annamAta fn sg 3
+v wunn_annamAta n pl 3
+v wunn_A null sg 1
+v wunn_A null sg 2
+v wunn_A m sg 3
+v wunn_A fm pl 3 
+v wunn_A null pl 1
+v wunn_A fn sg 3
+v wunn_A n pl 3
+v wA null sg 1
+v wA null sg 2
+v wA m sg 3
+v wA fm pl 3 
+v wA null pl 1
+v wA fn sg 3
+v wA n pl 3
+v wA_le null sg 1
+v wA_le null sg 2
+v wA_le m sg 3
+v wA_le fm pl 3 
+v wA_le null pl 1
+v wA_le fn sg 3
+v wA_le n pl 3
+v wA_leVMdi null sg 1
+v wA_leVMdi null sg 2
+v wA_leVMdi m sg 3
+v wA_leVMdi fm pl 3 
+v wA_leVMdi null pl 1
+v wA_leVMdi fn sg 3
+v wA_leVMdi n pl 3
+v wA_o null sg 1
+v wA_o null sg 2
+v wA_o m sg 3
+v wA_o fm pl 3 
+v wA_o null pl 1
+v wA_o fn sg 3
+v wA_o n pl 3
+v wA_e null sg 1
+v wA_e null sg 2
+v wA_e m sg 3
+v wA_e fm pl 3 
+v wA_e null pl 1
+v wA_e fn sg 3
+v wA_e n pl 3
+v wA_aMdi null sg 1
+v wA_aMdi null sg 2
+v wA_aMdi m sg 3
+v wA_aMdi fm pl 3 
+v wA_aMdi null pl 1
+v wA_aMdi fn sg 3
+v wA_aMdi n pl 3
+v wA_alle null sg 1
+v wA_alle null sg 2
+v wA_alle m sg 3
+v wA_alle fm pl 3 
+v wA_alle null pl 1
+v wA_alle fn sg 3
+v wA_alle n pl 3
+v wA_rA null sg 1
+v wA_rA null sg 2
+v wA_rA m sg 3
+v wA_rA fm pl 3 
+v wA_rA null pl 1
+v wA_rA fn sg 3
+v wA_rA n pl 3
+v wA_ani null sg 1
+v wA_ani null sg 2
+v wA_ani m sg 3
+v wA_ani fm pl 3 
+v wA_ani null pl 1
+v wA_ani fn sg 3
+v wA_ani n pl 3
+v wA_ata null sg 1
+v wA_ata null sg 2
+v wA_ata m sg 3
+v wA_ata fm pl 3 
+v wA_ata null pl 1
+v wA_ata fn sg 3
+v wA_ata n pl 3
+v wA_uta null sg 1
+v wA_uta null sg 2
+v wA_uta m sg 3
+v wA_uta fm pl 3 
+v wA_uta null pl 1
+v wA_uta fn sg 3
+v wA_uta n pl 3
+v wA_annamAta null sg 1
+v wA_annamAta null sg 2
+v wA_annamAta m sg 3
+v wA_annamAta fm pl 3 
+v wA_annamAta null pl 1
+v wA_annamAta fn sg 3
+v wA_annamAta n pl 3
+v wA_A null sg 1
+v wA_A null sg 2
+v wA_A m sg 3
+v wA_A fm pl 3 
+v wA_A null pl 1
+v wA_A fn sg 3
+v wA_A n pl 3
+v wuMtA null sg 1
+v wuMtA null sg 2
+v wuMtA m sg 3
+v wuMtA fm pl 3 
+v wuMtA null pl 1
+v wuMtA fn sg 3
+v wuMtA n pl 3
+v wAmu_le null sg 1
+v wAmu_le null sg 2
+v wAmu_le m sg 3
+v wAmu_le fm pl 3 
+v wAmu_le null pl 1
+v wAmu_le fn sg 3
+v wAmu_le n pl 3
+v wAmu_leVMdi null sg 1
+v wAmu_leVMdi null sg 2
+v wAmu_leVMdi m sg 3
+v wAmu_leVMdi fm pl 3 
+v wAmu_leVMdi null pl 1
+v wAmu_leVMdi fn sg 3
+v wAmu_leVMdi n pl 3
+v wAmu_o null sg 1
+v wAmu_o null sg 2
+v wAmu_o m sg 3
+v wAmu_o fm pl 3 
+v wAmu_o null pl 1
+v wAmu_o fn sg 3
+v wAmu_o n pl 3
+v wAmu_e null sg 1
+v wAmu_e null sg 2
+v wAmu_e m sg 3
+v wAmu_e fm pl 3 
+v wAmu_e null pl 1
+v wAmu_e fn sg 3
+v wAmu_e n pl 3
+v wAmu_aMdi null sg 1
+v wAmu_aMdi null sg 2
+v wAmu_aMdi m sg 3
+v wAmu_aMdi fm pl 3 
+v wAmu_aMdi null pl 1
+v wAmu_aMdi fn sg 3
+v wAmu_aMdi n pl 3
+v wAmu_alle null sg 1
+v wAmu_alle null sg 2
+v wAmu_alle m sg 3
+v wAmu_alle fm pl 3 
+v wAmu_alle null pl 1
+v wAmu_alle fn sg 3
+v wAmu_alle n pl 3
+v wAmu_rA null sg 1
+v wAmu_rA null sg 2
+v wAmu_rA m sg 3
+v wAmu_rA fm pl 3 
+v wAmu_rA null pl 1
+v wAmu_rA fn sg 3
+v wAmu_rA n pl 3
+v wAmu_ani null sg 1
+v wAmu_ani null sg 2
+v wAmu_ani m sg 3
+v wAmu_ani fm pl 3 
+v wAmu_ani null pl 1
+v wAmu_ani fn sg 3
+v wAmu_ani n pl 3
+v wAmu_ata null sg 1
+v wAmu_ata null sg 2
+v wAmu_ata m sg 3
+v wAmu_ata fm pl 3 
+v wAmu_ata null pl 1
+v wAmu_ata fn sg 3
+v wAmu_ata n pl 3
+v wAmu_uta null sg 1
+v wAmu_uta null sg 2
+v wAmu_uta m sg 3
+v wAmu_uta fm pl 3 
+v wAmu_uta null pl 1
+v wAmu_uta fn sg 3
+v wAmu_uta n pl 3
+v wAmu_annamAta null sg 1
+v wAmu_annamAta null sg 2
+v wAmu_annamAta m sg 3
+v wAmu_annamAta fm pl 3 
+v wAmu_annamAta null pl 1
+v wAmu_annamAta fn sg 3
+v wAmu_annamAta n pl 3
+v wAmu_A null sg 1
+v wAmu_A null sg 2
+v wAmu_A m sg 3
+v wAmu_A fm pl 3 
+v wAmu_A null pl 1
+v wAmu_A fn sg 3
+v wAmu_A n pl 3
+v xA null pl 1
+v xA_le null pl 1
+v xA_leVMdi null pl 1
+v xA_o null pl 1
+v xA_e null pl 1
+v xA_aMdi null pl 1
+v xA_alle null pl 1
+v xA_rA null pl 1
+v xA_ani null pl 1
+v xA_ata null pl 1
+v xA_uta null pl 1
+v xA_annamAta null pl 1
+v xA_A null pl 1
+v AjFArWa null sg 2
+v AjFArWa null pl 2
+v AjFArWa_manu null sg 2
+v AjFArWa_manu null pl 2
+v AjFArWa_le null sg 2
+v AjFArWa_le null pl 2
+v AjFArWa_ammA null sg 2
+v AjFArWa_ammA null pl 2
+v AjFArWa_ayyA null sg 2
+v AjFArWa_ayyA null pl 2
+v AjFArWa_rA null sg 2
+v AjFArWa_rA null pl 2
+v AjFArWa_ve null sg 2
+v AjFArWa_ve null pl 2
+v aku null sg 2
+v aku any pl 2
+v a null sg 1
+v a m sg 3
+v a fm pl 3
+v a null pl 1
+v a fn sg 3
+v a null sg 2
+v a_le null sg 1
+v a_le m sg 3
+v a_le fm pl 3 
+v a_le null pl 1
+v a_le fn sg 3
+v a_le n sg 3
+v a_leVMdi null sg 1
+v a_leVMdi m sg 3
+v a_leVMdi fm pl 3 
+v a_leVMdi null pl 1
+v a_leVMdi fn sg 3
+v a_leVMdi n sg 3
+v a_o null sg 1
+v a_o m sg 3
+v a_o fm pl 3 
+v a_o null pl 1
+v a_o fn sg 3
+v a_o n sg 3
+v a_e null sg 1
+v a_e m sg 3
+v a_e fm pl 3 
+v a_e null pl 1
+v a_e fn sg 3
+v a_e n sg 3
+v a_aMdi null sg 1
+v a_aMdi m sg 3
+v a_aMdi fm pl 3 
+v a_aMdi null pl 1
+v a_aMdi fn sg 3
+v a_aMdi n sg 3
+v a_alle null sg 1
+v a_alle m sg 3
+v a_alle fm pl 3 
+v a_alle null pl 1
+v a_alle fn sg 3
+v a_alle n sg 3
+v a_rA null sg 1
+v a_rA m sg 3
+v a_rA fm pl 3 
+v a_rA null pl 1
+v a_rA fn sg 3
+v a_rA n sg 3
+v a_ani null sg 1
+v a_ani m sg 3
+v a_ani fm pl 3 
+v a_ani null pl 1
+v a_ani fn sg 3
+v a_ani n sg 3
+v a_ata null sg 1
+v a_ata m sg 3
+v a_ata fm pl 3 
+v a_ata null pl 1
+v a_ata fn sg 3
+v a_ata n sg 3
+v a_uta null sg 1
+v a_uta m sg 3
+v a_uta fm pl 3 
+v a_uta null pl 1
+v a_uta fn sg 3
+v a_uta n sg 3
+v a_annamAta null sg 1
+v a_annamAta m sg 3
+v a_annamAta fm pl 3 
+v a_annamAta null pl 1
+v a_annamAta fn sg 3
+v a_annamAta n sg 3
+v a_A null sg 1
+v a_A m sg 3
+v a_A fm pl 3 
+v a_A null pl 1
+v a_A fn sg 3
+v a_A n sg 3
+v A null sg 1
+v A null sg 2
+v A m sg 3
+v A fm pl 3 
+v A null pl 1
+v A fn sg 3
+v A n pl 3
+v A_le null sg 1
+v A_le null sg 2
+v A_le m sg 3
+v A_le fm pl 3 
+v A_le null pl 1
+v A_le fn sg 3
+v A_le n pl 3
+v A_leVMdi null sg 1
+v A_leVMdi null sg 2
+v A_leVMdi m sg 3
+v A_leVMdi fm pl 3 
+v A_leVMdi null pl 1
+v A_leVMdi fn sg 3
+v A_leVMdi n pl 3
+v A_o null sg 1
+v A_o null sg 2
+v A_o m sg 3
+v A_o fm pl 3 
+v A_o null pl 1
+v A_o fn sg 3
+v A_o n pl 3
+v A_e null sg 1
+v A_e null sg 2
+v A_e m sg 3
+v A_e fm pl 3 
+v A_e null pl 1
+v A_e fn sg 3
+v A_e n pl 3
+v A_aMdi null sg 1
+v A_aMdi null sg 2
+v A_aMdi m sg 3
+v A_aMdi fm pl 3 
+v A_aMdi null pl 1
+v A_aMdi fn sg 3
+v A_aMdi n pl 3
+v A_alle null sg 1
+v A_alle null sg 2
+v A_alle m sg 3
+v A_alle fm pl 3 
+v A_alle null pl 1
+v A_alle fn sg 3
+v A_alle n pl 3
+v A_rA null sg 1
+v A_rA null sg 2
+v A_rA m sg 3
+v A_rA fm pl 3 
+v A_rA null pl 1
+v A_rA fn sg 3
+v A_rA n pl 3
+v A_ani null sg 1
+v A_ani null sg 2
+v A_ani m sg 3
+v A_ani fm pl 3 
+v A_ani null pl 1
+v A_ani fn sg 3
+v A_ani n pl 3
+v A_ata null sg 1
+v A_ata null sg 2
+v A_ata m sg 3
+v A_ata fm pl 3 
+v A_ata null pl 1
+v A_ata fn sg 3
+v A_ata n pl 3
+v A_uta null sg 1
+v A_uta null sg 2
+v A_uta m sg 3
+v A_uta fm pl 3 
+v A_uta null pl 1
+v A_uta fn sg 3
+v A_uta n pl 3
+v A_annamAta null sg 1
+v A_annamAta null sg 2
+v A_annamAta m sg 3
+v A_annamAta fm pl 3 
+v A_annamAta null pl 1
+v A_annamAta fn sg 3
+v A_annamAta n pl 3
+v A_A null sg 1
+v A_A null sg 2
+v A_A m sg 3
+v A_A fm pl 3 
+v A_A null pl 1
+v A_A fn sg 3
+v A_A n pl 3
+v adaM any any any
+v adaM_aMta any any any
+v adaM_aMtU any any any
+v adaM_annA any any any
+v adaM_annamAta any any any
+v adaM_aMte any any any
+v adaM_gAni any any any
+v koVn any any any
+v an any any any
+v an_e any any any
+v a_EnA any any any
+v a_lexu any any any
+v neg_np any any any
+v neg_pst_emp any any any
+v neg_np_emp any any any
+v a_vaxxu any any any
+v an_e_vaxxu any any any
+v a_mAku any any any
+v a_kUdaxu any any any
+v an_e_kUdaxu any any any
+v a_rAxu any any any
+v a_vaccu any any any
+v a_gA any any any
+v a_batti any any any
+v an_avasaraM any any any
+v a_gAne any any any
+v an_akkara any any any
+v an_e_akkara any any any
+v aka any any any
+v aka_A any any any
+v aka_e any any any
+v aka_o any any any
+v aka_le any any any
+v aka_muMxu any any any
+v aka_V any any any
+v aka_gAni any any any
+v aka_gaxU any any any
+v aka_gaxA any any any
+v aka_gAbolu any any any
+v aka_attuMxi any any any
+v aka_ganaka any any any
+v aka_ani any any any
+v aka_annamAta any any any
+v aka_gAni any any any
+v ani any any any
+v ani_co any any any
+v ani_atlu any any any
+v ani_atlugA any any any
+v ani_appudu any any any
+v ani_appati any any any
+v ani_app_nuMci any any any
+v ani_app_ki any any any
+v ani_aMxuku any any any
+v ani_aMxuvalla any any any
+v ani_atuvaMti any any any
+v ani_aMxuna any any any
+v ani_anni any any any
+v ani_aMwa any any any
+v ani_aMwagA any any any
+v ani_aMwasepu any any any
+v ani_aMwavaraku any any any
+v akuMdA any any any
+v akuMdA_A any any any
+v akuMdA_e any any any
+v akuMdA_o any any any
+v akuMdA_le any any any
+v akuMdA_gAni any any any
+v akuMdA_gaxA any any any
+v akuMdA_gaxU any any any
+v akuMdA_gUdA any any any
+v akuMdA_gAbolu any any any
+v akuMdA_attuMxi any any any
+v akuMdA_EnA any any any
+v akuMdA_annamAta any any any
+v akuMdA_ata any any any
+v akunnA any any any
+v akunnA_gAni any any any
+v akunnA_gaxU any any any
+v akunnA_gUdA any any any
+v akunnA_sare any any any
+v akapowe any any any
+v akapowe_A any any any
+v akapowe_e any any any
+v akapowe_o any any any
+v akapowe_gA any any any
+v akapowe_gAni any any any
+v akapowe_gaxa any any any
+v akapowe_e_gaxa any any any
+v akapowe_ganaka any any any
+v akapowe_gUdA any any any
+v akapowe_wappa any any any
+v akapowe_mAlle any any any
+v akapowe_attuMxi any any any
+v akapowe_ata any any any
+v akapowe_mari any any any
+v akapowe_annA any any any
+v Ali any any any
+v Ali_ani any any any
+v Ali_ane any any any
+v Ali_gAni any any any
+v Ali_emonani any any any
+v Ali_emo any any any
+v Ali_gaxa any any any
+v Alasi any any any
+v Ali_aMta any any any
+v Ali_ata any any any
+v Ali_annamAta any any any
+v Ali_aMte any any any
+v Ali_A any any any
+v Ali_e any any any
+v Ali_o any any any
+v Ali_V any any any
+v Ali_aMdi any any any
+v Ali_rA any any any
+v Ali_ammA any any any
+v Ali_ayyA any any any
+v wunna any any any
+v wunna_co any any any
+v wunna_atlu any any any
+v wunna_atlugA any any any
+v wunna_appudu any any any
+v wunna_app_ti any any any
+v wunna_app_nuMci any any any
+v wunna_app_ki any any any
+v wunna_aMxuku any any any
+v wunna_aMxuvalana any any any
+v wunna_atuvaMti any any any
+v wunna_aMxuna any any any
+v wunna_anni any any any
+v wunna_aMwa any any any
+v wunna_aMwagA any any any
+v wunna_aMwasepu any any any
+v wunna_aMwalo any any any
+v wunna_aMwavaraku any any any
+v wunna_lopala any any any
+v wunna_xAkA any any any
+v wunna_koVxxi any any any
+v wU any any any
+v wU_A any any any
+v wU_e any any any
+v wU_o any any any
+v wU_le any any any
+v wU_gAni any any any
+v wU_gaxa any any any
+v wU_gaxu any any any
+v wU_gUdA any any any
+v wU_gAbolu any any any
+v wU_attuMxi any any any
+v wU_EnA any any any
+v wU_annamAta any any any
+v wU_ata any any any
+v wunnA any any any
+v wunnA_gAni any any any
+v wunnA_gaxU any any any
+v wunnA_gUdA any any any
+v wunnA_sare any any any
+v wuMte any any any
+v wuMte_A any any any
+v wuMte_e any any any
+v wuMte_o any any any
+v wuMte_gA any any any
+v wuMte_gAni any any any
+v wuMte_gaxa any any any
+v wuMte_e_gaxa any any any
+v wuMte_ganaka any any any
+v wuMte_gUdA any any any
+v wuMte_wappa any any any
+v wuMte_alle any any any
+v wuMte_attuMxi any any any
+v wuMte_ata any any any
+v wuMte_mari any any any
+v wuMte_annA any any any
+v ina any any any
+v ina_co any any any
+v ina_gAni any any any
+v ina_atlu any any any
+v ina_atlugA any any any
+v ina_appudu any any any
+v ina_appati any any any
+v ina_app_nuMci any any any
+v ina_app_ki any any any
+v ina_aMxuku any any any
+v ina_aMxuvalla any any any
+v ina_atuvaMti any any any
+v ina_aMxuna any any any
+v ina_anni any any any
+v ina_aMwa any any any
+v ina_aMwagA any any any
+v ina_aMwasepu any any any
+v ina_aMwalo any any any
+v ina_aMwavaraku any any any
+v ina_lopala any any any
+v ina_xAkA any any any
+v ina_Aka any any any
+v ina_koVxxi any any any
+v i any any any
+v i_A any any any
+v i_e any any any
+v i_o any any any
+v i_V any any any
+v i_le any any any
+v i_gA any any any
+v i_gAni any any any
+v i_gaxa any any any
+v i_gaxu any any any
+v i_gUdA any any any
+v i_gAbolu any any any
+v i_attuMxi any any any
+v i_EnA any any any
+v i_annamAta any any any
+v aka_uMdu any any any
+v aka_po any any any
+v aka_wappu any any any
+v aka_mAnu any any any
+v akuMdA_uMdu any any any
+v akuMdA_cUdu any any any
+v i_po any any any
+v i_vaccu any any any
+v i_uMdu any any any
+v i_cUdu any any any
+v i_wIru any any any
+v i_peVttu any any any
+v i_pAreVyyi any any any
+v i_veVyyi any any any
+v a_le any any any
+v a_badu any any any
+v a_gala any any any
+v a_bo any any any
+v a_nAraMBiMcu any any any
+v a_neru any any any
+v a_bUnu any any any
+v a_goru any any any
+v a_ivvu any any any
+v a_uMdu any any any
+v a_manu any any any
+v a_walacu any any any
+v a_goVttu any any any
+v a_beVttu any any any
+v a_wagu any any any
+v a_gUdu any any any
+v a_galugu any any any
+v a_wiyyi any any any
+v a_joVccu any any any
+v a_vaccu any any any
+v a_jAlu any any any
+v a_paracu any any any
+v a_komanu any any any
+v a_sAgu any any any
+v a_valayu any any any
+v a_buxXiputtu any any any
+v a_buxXavvu any any any
+v a_buxXeVyyi any any any
+v wU_po any any any
+v wU_vaccu any any any
+v wU_uMdu any any any
+avy null null null null
+n 0 null sg null
+n I null sg null
+n gA null sg null
+n gAdu null sg null
+n gawweV null sg null
+n vAdu null sg null
+n Ayana null sg null
+n vAru null sg null
+n xi null sg null
+n vi null sg null
+n gAru null sg null
+n nu null sg null
+n vu null sg null
+n yoVkka null sg null
+n obl null sg null
+n ni null sg null
+n ki null sg null
+n wo null sg null
+n lo null sg null
+n loni null sg null
+n mIxa null sg null
+n na null sg null
+n nuMdi null sg null
+n xvArA null sg null
+n valana null sg null
+n ce null sg null
+n wopAtu null sg null
+n wokUdi null sg null
+n kosaM null sg null
+n koVraku null sg null
+n lonuMdi null sg null
+n mIxanuMdi null sg null
+n xAkA null sg null
+n varaku null sg null
+n mIxaki null sg null
+n xaggara null sg null
+n vaxxa null sg null
+n kAda null sg null
+n keVxurugA null sg null
+n muMxu null sg null
+n guriMci null sg null
+n pE null sg null
+n pEki null sg null
+n guMdA null sg null
+n lA null sg null
+n vale null sg null
+n kimalle null sg null
+n kUdA null sg null
+n xqRtilo null sg null
+n lekuMdA null sg null
+n kAkuMdA null sg null
+n moVxalukoVni null sg null
+n vEpu null sg null
+n pakka null sg null
+n pakkalo null sg null
+n lopalaki null sg null
+n kiMxa null sg null
+n duguna null sg null
+n kriMxane null sg null
+n veVnuka null sg null
+n waravAwa null sg null
+n eVxuruguMdA null sg null
+n maXya null sg null
+n naduma null sg null
+n baxulugA null sg null
+n cotlo null sg null
+n sWAnaMlo null sg null
+n nerugA null sg null
+n prakAraM null sg null
+n xaggaranuMdi null sg null
+n vaxxanuMdi null sg null
+n pakkanuMdi null sg null
+n pakkalonuMdi null sg null
+n lopalanuMdi null sg null
+n bEtanuMdi null sg null
+n pEnuMdi null sg null
+n kiMxanuMdi null sg null
+n kriMxanuMdi null sg null
+n dugunuMdi null sg null
+n muMxunuMdi null sg null
+n veVnukanuMdi null sg null
+n veVnukanuMci null sg null
+n eVxutinuMdi null sg null
+n maXyanuMdi null sg null
+n maXyalonuMdi null sg null
+n nadumanuMdi null sg null
+n waravAwanuMdi null sg null
+n cotlonuMdi null sg null
+n sWAnaMnuMdi null sg null
+n sWAnaMlonuMdi null sg null
+n sWAnaMlonuMci null sg null
+n aMxu null sg null
+n aMte null sg null
+n kaMte null sg null
+n Ena null sg null
+n pAti null sg null
+n lAti null sg null
+n gAni null sg null
+n gA null sg null
+n 0 null pl null
+n I null pl null
+n gA null pl null
+n gAdu null pl null
+n gawweV null pl null
+n vAdu null pl null
+n Ayana null pl null
+n vAru null pl null
+n xi null pl null
+n vi null pl null
+n gAru null pl null
+n nu null pl null
+n vu null pl null
+n yoVkka null pl null
+n obl null pl null
+n ni null pl null
+n ki null pl null
+n wo null pl null
+n lo null pl null
+n loni null pl null
+n mIxa null pl null
+n na null pl null
+n nuMdi null pl null
+n xvArA null pl null
+n valana null pl null
+n ce null pl null
+n wopAtu null pl null
+n wokUdi null pl null
+n kosaM null pl null
+n koVraku null pl null
+n lonuMdi null pl null
+n mIxanuMdi null pl null
+n xAkA null pl null
+n varaku null pl null
+n mIxaki null pl null
+n xaggara null pl null
+n vaxxa null pl null
+n kAda null pl null
+n keVxurugA null pl null
+n muMxu null pl null
+n guriMci null pl null
+n pE null pl null
+n pEki null pl null
+n guMdA null pl null
+n lA null pl null
+n vale null pl null
+n kimalle null pl null
+n kUdA null pl null
+n xqRtilo null pl null
+n lekuMdA null pl null
+n kAkuMdA null pl null
+n moVxalukoVni null pl null
+n vEpu null pl null
+n pakka null pl null
+n pakkalo null pl null
+n lopalaki null pl null
+n kiMxa null pl null
+n duguna null pl null
+n kriMxane null pl null
+n veVnuka null pl null
+n waravAwa null pl null
+n eVxuruguMdA null pl null
+n maXya null pl null
+n naduma null pl null
+n baxulugA null pl null
+n cotlo null pl null
+n sWAnaMlo null pl null
+n nerugA null pl null
+n prakAraM null pl null
+n xaggaranuMdi null pl null
+n vaxxanuMdi null pl null
+n pakkanuMdi null pl null
+n pakkalonuMdi null pl null
+n lopalanuMdi null pl null
+n bEtanuMdi null pl null
+n pEnuMdi null pl null
+n kiMxanuMdi null pl null
+n kriMxanuMdi null pl null
+n dugunuMdi null pl null
+n muMxunuMdi null pl null
+n veVnukanuMdi null pl null
+n veVnukanuMci null pl null
+n eVxutinuMdi null pl null
+n maXyanuMdi null pl null
+n maXyalonuMdi null pl null
+n nadumanuMdi null pl null
+n waravAwanuMdi null pl null
+n cotlonuMdi null pl null
+n sWAnaMnuMdi null pl null
+n sWAnaMlonuMdi null pl null
+n sWAnaMlonuMci null pl null
+n aMxu null pl null
+n aMte null pl null
+n kaMte null pl null
+n Ena null pl null
+n pAti null pl null
+n lAti null pl null
+n gAni null pl null
+n gA null pl null
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+n A null sg null
+n e null sg null
+n o null sg null
+n V null sg null
+n le null sg null
+n gAni null sg null
+n ni_A null sg null
+n ni_e null sg null
+n ni_o null sg null
+n ni_V null sg null
+n ni_le null sg null
+n ni_gAni null sg null
+n ki_A null sg null
+n ki_e null sg null
+n ki_o null sg null
+n ki_V null sg null
+n ki_le null sg null
+n ki_gAni null sg null
+n wo_A null sg null
+n wo_e null sg null
+n wo_o null sg null
+n wo_V null sg null
+n wo_le null sg null
+n wo_gAni null sg null
+n lo_A null sg null
+n lo_e null sg null
+n lo_o null sg null
+n lo_V null sg null
+n lo_le null sg null
+n lo_gAni null sg null
+n A null pl null
+n e null pl null
+n o null pl null
+n V null pl null
+n le null pl null
+n gAni null pl null
+n ni_A null pl null
+n ni_e null pl null
+n ni_o null pl null
+n ni_V null pl null
+n ni_le null pl null
+n ni_gAni null pl null
+n ki_A null pl null
+n ki_e null pl null
+n ki_o null pl null
+n ki_V null pl null
+n ki_le null pl null
+n ki_gAni null pl null
+n wo_A null pl null
+n wo_e null pl null
+n wo_o null pl null
+n wo_V null pl null
+n wo_le null pl null
+n wo_gAni null pl null
+n lo_A null pl null
+n lo_e null pl null
+n lo_o null pl null
+n lo_V null pl null
+n lo_le null pl null
+n lo_gAni null pl null
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+pn 0 null sg null
+pn I null sg null
+pn gA null sg null
+pn gAdu null sg null
+pn gawweV null sg null
+pn vAdu null sg null
+pn Ayana null sg null
+pn vAru null sg null
+pn xi null sg null
+pn vi null sg null
+pn gAru null sg null
+pn nu null sg null
+pn vu null sg null
+pn yoVkka null sg null
+pn obl null sg null
+pn ni null sg null
+pn ki null sg null
+pn wo null sg null
+pn lo null sg null
+pn loni null sg null
+pn mIxa null sg null
+pn na null sg null
+pn nuMdi null sg null
+pn xvArA null sg null
+pn valana null sg null
+pn ce null sg null
+pn wopAtu null sg null
+pn wokUdi null sg null
+pn kosaM null sg null
+pn koVraku null sg null
+pn lonuMdi null sg null
+pn mIxanuMdi null sg null
+pn xAkA null sg null
+pn varaku null sg null
+pn mIxaki null sg null
+pn xaggara null sg null
+pn vaxxa null sg null
+pn kAda null sg null
+pn keVxurugA null sg null
+pn muMxu null sg null
+pn guriMci null sg null
+pn pE null sg null
+pn pEki null sg null
+pn guMdA null sg null
+pn lA null sg null
+pn vale null sg null
+pn kimalle null sg null
+pn kUdA null sg null
+pn xqRtilo null sg null
+pn lekuMdA null sg null
+pn kAkuMdA null sg null
+pn moVxalukoVni null sg null
+pn vEpu null sg null
+pn pakka null sg null
+pn pakkalo null sg null
+pn lopalaki null sg null
+pn kiMxa null sg null
+pn duguna null sg null
+pn kriMxane null sg null
+pn veVnuka null sg null
+pn waravAwa null sg null
+pn eVxuruguMdA null sg null
+pn maXya null sg null
+pn naduma null sg null
+pn baxulugA null sg null
+pn cotlo null sg null
+pn sWAnaMlo null sg null
+pn nerugA null sg null
+pn prakAraM null sg null
+pn xaggaranuMdi null sg null
+pn vaxxanuMdi null sg null
+pn pakkanuMdi null sg null
+pn pakkalonuMdi null sg null
+pn lopalanuMdi null sg null
+pn bEtanuMdi null sg null
+pn pEnuMdi null sg null
+pn kiMxanuMdi null sg null
+pn kriMxanuMdi null sg null
+pn dugunuMdi null sg null
+pn muMxunuMdi null sg null
+pn veVnukanuMdi null sg null
+pn veVnukanuMci null sg null
+pn eVxutinuMdi null sg null
+pn maXyanuMdi null sg null
+pn maXyalonuMdi null sg null
+pn nadumanuMdi null sg null
+pn waravAwanuMdi null sg null
+pn cotlonuMdi null sg null
+pn sWAnaMnuMdi null sg null
+pn sWAnaMlonuMdi null sg null
+pn sWAnaMlonuMci null sg null
+pn aMxu null sg null
+pn aMte null sg null
+pn kaMte null sg null
+pn Ena null sg null
+pn pAti null sg null
+pn lAti null sg null
+pn gAni null sg null
+pn gA null sg null
+pn 0_e null sg null
+pn ki_e null sg null
+pn xi_e null sg null
+pn vi_e null sg null
+pn ni_e null sg null
+pn wo_e null sg null
+pn lo_e null sg null
+pn lA_e null sg null
+pn pEna_e null sg null
+pn 0_A null sg null
+pn ki_A null sg null
+pn xi_A null sg null
+pn vi_A null sg null
+pn ni_A null sg null
+pn wo_A null sg null
+pn lo_A null sg null
+pn lA_A null sg null
+pn pEna_A null sg null
+pn 0_o null sg null
+pn ki_o null sg null
+pn xi_o null sg null
+pn vi_o null sg null
+pn ni_o null sg null
+pn wo_o null sg null
+pn lo_o null sg null
+pn lA_o null sg null
+pn pEna_o null sg null
+pn 0_V null sg null
+pn ki_V null sg null
+pn xi_V null sg null
+pn vi_V null sg null
+pn ni_V null sg null
+pn wo_V null sg null
+pn lo_V null sg null
+pn lA_V null sg null
+pn pEna_V null sg null
+pn 0 null pl null
+pn I null pl null
+pn gA null pl null
+pn gAdu null pl null
+pn gawweV null pl null
+pn vAdu null pl null
+pn Ayana null pl null
+pn vAru null pl null
+pn xi null pl null
+pn vi null pl null
+pn gAru null pl null
+pn nu null pl null
+pn vu null pl null
+pn yoVkka null pl null
+pn obl null pl null
+pn ni null pl null
+pn ki null pl null
+pn wo null pl null
+pn lo null pl null
+pn loni null pl null
+pn mIxa null pl null
+pn na null pl null
+pn nuMdi null pl null
+pn xvArA null pl null
+pn valana null pl null
+pn ce null pl null
+pn wopAtu null pl null
+pn wokUdi null pl null
+pn kosaM null pl null
+pn koVraku null pl null
+pn lonuMdi null pl null
+pn mIxanuMdi null pl null
+pn xAkA null pl null
+pn varaku null pl null
+pn mIxaki null pl null
+pn xaggara null pl null
+pn vaxxa null pl null
+pn kAda null pl null
+pn keVxurugA null pl null
+pn muMxu null pl null
+pn guriMci null pl null
+pn pE null pl null
+pn pEki null pl null
+pn guMdA null pl null
+pn lA null pl null
+pn vale null pl null
+pn kimalle null pl null
+pn kUdA null pl null
+pn xqRtilo null pl null
+pn lekuMdA null pl null
+pn kAkuMdA null pl null
+pn moVxalukoVni null pl null
+pn vEpu null pl null
+pn pakka null pl null
+pn pakkalo null pl null
+pn lopalaki null pl null
+pn kiMxa null pl null
+pn duguna null pl null
+pn kriMxane null pl null
+pn veVnuka null pl null
+pn waravAwa null pl null
+pn eVxuruguMdA null pl null
+pn maXya null pl null
+pn naduma null pl null
+pn baxulugA null pl null
+pn cotlo null pl null
+pn sWAnaMlo null pl null
+pn nerugA null pl null
+pn prakAraM null pl null
+pn xaggaranuMdi null pl null
+pn vaxxanuMdi null pl null
+pn pakkanuMdi null pl null
+pn pakkalonuMdi null pl null
+pn lopalanuMdi null pl null
+pn bEtanuMdi null pl null
+pn pEnuMdi null pl null
+pn kiMxanuMdi null pl null
+pn kriMxanuMdi null pl null
+pn dugunuMdi null pl null
+pn muMxunuMdi null pl null
+pn veVnukanuMdi null pl null
+pn veVnukanuMci null pl null
+pn eVxutinuMdi null pl null
+pn maXyanuMdi null pl null
+pn maXyalonuMdi null pl null
+pn nadumanuMdi null pl null
+pn waravAwanuMdi null pl null
+pn cotlonuMdi null pl null
+pn sWAnaMnuMdi null pl null
+pn sWAnaMlonuMdi null pl null
+pn sWAnaMlonuMci null pl null
+pn aMxu null pl null
+pn aMte null pl null
+pn kaMte null pl null
+pn Ena null pl null
+pn pAti null pl null
+pn lAti null pl null
+pn gAni null pl null
+pn gA null pl null
+pn 0_e null pl null
+pn ki_e null pl null
+pn xi_e null pl null
+pn vi_e null pl null
+pn ni_e null pl null
+pn wo_e null pl null
+pn lo_e null pl null
+pn lA_e null pl null
+pn pEna_e null pl null
+pn 0_A null pl null
+pn ki_A null pl null
+pn xi_A null pl null
+pn vi_A null pl null
+pn ni_A null pl null
+pn wo_A null pl null
+pn lo_A null pl null
+pn lA_A null pl null
+pn pEna_A null pl null
+pn 0_o null pl null
+pn ki_o null pl null
+pn xi_o null pl null
+pn vi_o null pl null
+pn ni_o null pl null
+pn wo_o null pl null
+pn lo_o null pl null
+pn lA_o null pl null
+pn pEna_o null pl null
+pn 0_V null pl null
+pn ki_V null pl null
+pn xi_V null pl null
+pn vi_V null pl null
+pn ni_V null pl null
+pn wo_V null pl null
+pn lo_V null pl null
+pn lA_V null pl null
+pn pEna_V null pl null
+adj 0 null null null
+adj na null null null
+adj 0 fn sg 3
+adj 0 n pl 3
+adj 0 m sg 3
+adj 0 fm pl 3
+adj Ena n sg 3
+adj Ena f sg 3
+adj Ena m sg 3
+adj Ena fm pl 3
+adj Enaxi n sg 3
+adj xEnaxi f sg 3
+adj EnavAdu m sg 3
+adj EnavAru fm pl 3
+adj obl null null null
+adj nixi n sg 3
+adj nixi f sg 3
+adj nivAdu m sg 3
+adj nivAru m pl 3
+adj nixEna n sg 3
+adj nixEna f sg 3
+adj nivAdEna m sg 3
+adj nivArEna fm pl 3
+adj nixEnaxi n sg 3
+adj nixEnaxi f sg 3
+adj nivAdEnavAdu m sg 3
+adj nEnaxi n sg 3
+adj nEnaxi f sg 3
+adj nivArEnavAru fm sg 3
+adj nEna n sg 3
+adj nEnavAdu m sg 3
+adj nEnavAru fm sg 3
+adj wanaM null null null
+adj gA null null null
+adj pAti null null null
+adv 0 null null null
+adv yoVkka null null null
+adv nu null null null
+adv ku null null null
+adv wo null null null
+adv lo null null null
+adv nuMdi null null null
+adv varaku null null null
+adv xAkA null null null
+adv xi null null null
+adv vAdu null null null
+adv lA null null null
+adv A null null null
+adv e null null null
+adv o null null null
+adv V null null null
+adv ki_A null null null
+adv ki_e null null null
+adv ki_o null null null
+adv ki_V null null null
+adv wo_A null null null
+adv wo_e null null null
+adv wo_o null null null
+adv wo_V null null null
+adv lo_A null null null
+adv lo_e null null null
+adv lo_o null null null
+adv lo_V null null null
+adv nuMdi_A null null null
+adv nuMdi_e null null null
+adv nuMdi_o null null null
+adv nuMdi_V null null null
+adv varaku_A null null null
+adv varaku_e null null null
+adv varaku_o null null null
+adv varaku_V null null null
+adv xAkA_A null null null
+adv xAkA_e null null null
+adv xAkA_o null null null
+adv xAkA_V null null null
+adv xi_A null null null
+adv xi_e null null null
+adv xi_o null null null
+adv xi_V null null null
+adv vAdu_A null null null
+adv vAdu_e null null null
+adv vAdu_o null null null
+adv vAdu_V null null null
+adv lA_A null null null
+adv lA_e null null null
+adv lA_o null null null
+adv lA_V null null null
+num iMti null null null
+num gaMta null null null
+num iMtiki null null null
+num iMtikannA null null null
+num iMtikallA null null null
+num iMtixAkA null null null
+num iMtilogA null null null
+num iMtinuMdi null null null
+num ava 0 null null
+num avavAdu fm null null
+num avaxi fn sg 3
+num aru fm pl 3
+num esi n null null
+num esi fm null null
+num ceVri null null null
+num walA null null null
+num iMwa null null null
+num unnara null null null
+num uMbAvu null null null
+num VmuppAvu null null null
+n V null null null
+n 0_avy null null null
+n A_avy null null null
+n e_avy null null null
+n o_avy null null null
+n V_avy null null null
+n gAni_avy null null null
+v a_beVttu_wA fm pl 3
+v e_xi fn sg 3
+v e_vAdu m sg 3
+v e_vi n pl 3
+v e_vAlYlu fm pl 3
+v e_vAru fm pl 3
+v ina_xi fn sg 3
+v ina_vAdu m sg 3
+v ina_vi n pl 3
+v ina_vAlYlu fm pl 3
+v ina_vAru fm pl 3
+v wunna_xi fn sg 3
+v wunna_vAdu m sg 3
+v wunna_vi n pl 3
+v wunna_vAlYlu fm pl 3
+v wunna_vAru fm pl 3
+n ku_gAnu null sg null
+n ku_gAnu null pl null
+v adaM_ki n pl 3
+v adaM_ki fn sg 3
+adj 0 n pl 3
+adj 0 fn pl 3
+adj 0 m pl 3
+adj vAru any pl null
+adj vEna_na n pl null
+adj vEna n pl null
+adj vAlYlEna fm pl null
+adj vArEna fm pl null
+adj vEnavi_na n pl null
+adj vEnavi n pl null
+adj vAlYlEnavAlYlu fm pl null
+adj vArEnavAru fm pl null
+adj ti null pl null
+adj nivi_na n pl null
+adj nivi n pl null
+adj nivAlYlu fm pl null
+adj nivAru fm pl null
+adj nivEna_na n pl null
+adj nivEna n pl null
+adj nivAlYlEna fm pl null
+adj nivArEna fm pl null
+adj nivEnavi_na n pl null
+adj nivEnavi n pl null
+adj nivAlYlEnavAlYlu fm pl null
+adj nEnavi_na n pl null
+adj nEnavi n pl null
+adj nivArEnavAru fm pl null
+adj nEnavAlYlu fm pl null
+adj nEnavAru fm pl null
+
+adv kUdA null sg null

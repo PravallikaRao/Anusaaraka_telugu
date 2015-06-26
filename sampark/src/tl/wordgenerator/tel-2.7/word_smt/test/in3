@@ -1,0 +1,29 @@
+1	((	NP	<fs af='vEnaM,n,n,sg,3,d,0,0' head=हकीकत drel=k1:3 name=1>
+1.1	vEnaM	NN	<fs af='vEnaM,n,n,sg,3,d,0,0' name=हकीकत>
+	))		
+2	((	NP	<fs af='wanu,pn,n,sg,3,d,0,0_prox' head=यह name=2>
+2.1	ixi	PRP	<fs af='wanu,pn,n,sg,3,d,0,0_prox' name=यह>
+	))		
+3	((	VGF	<fs af='uMdu,v,n,sg,3,,A,hE' head=है name=3>
+3.1		VM	<fs af='-0,v,n,sg,3,,A,hE' name=है>
+	))		
+4	((	CCP	<fs af='emaMte,avy,,,,,,' head='कि'  name='4'>
+4.1	emaMte	CC	<fs af='emaMte,avy,,,,,,' name='^एमंटे'>
+	))		
+5	((	NP	<fs af='PitneVs,n,n,sg,3,d,lo,0' vpos=vib2_3_RP head=फिटनेस drel=k7:8 name=5>
+5.1	Pijikal	JJ	<fs af='Pijikal,adj,,,,any,,'>
+5.2	PitneVslo	NN	<fs af='PitneVs,n,n,sg,3,d,lo,0' name=फिटनेस>
+5.3	e	RP	<fs af='e,psp,,,,,,' name='ही'>
+	))		
+6	((	NP	<fs af='stUdeVMtsu,n,n,sg,3,d,0,0' head=स्टूडेंट्स drel=k1:8 name=6>
+6.1	aXikAMSa	JJ	<fs af='aXikAMSa,adj,,,,,,' poslcat=NM>
+6.2	stUdeVMtsu	NN	<fs af='stUdeVMtsu,n,n,sg,3,d,0,0' name=स्टूडेंट्स>
+	))		
+7	((	JJP	<fs af='asaPala,n,any,any,,any,,' head='असफल'  name='7'>
+7.1	asaPala	JJ	<fs af='asaPala,n,any,any,,any,,' name=असफल>
+	))		
+8	((	VGF	<fs af='avvu,v,n,pl,3,,i_po_wA,0' vpos=tam1_2_3 head= drel=head=हो name=8>
+8.1	ayi	VM	<fs af='avvu,v,n,pl,3,,i,0' head= drel=name=हो>
+8.2	powAyi	VAUX	<fs af='po,v,n,pl,3,,wA,'>
+8.3	.	SYM	<fs af='&dot;,punc,,,,,,' poslcat='NM'>
+	))		

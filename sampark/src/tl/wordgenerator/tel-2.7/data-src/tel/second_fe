@@ -1,0 +1,1540 @@
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+n 0 null pl null 
+n I null pl null 
+n gA null pl null 
+n gAdu null pl null 
+n gawweV null pl null 
+n vAdu null pl null 
+n Ayana null pl null 
+n vAru null pl null 
+n xi null pl null 
+n vi null pl null 
+n gAru null pl null 
+n nu null pl null 
+n vu null pl null 
+n yoVkka null pl null 
+n obl null pl null 
+n ni null pl null 
+n ki null pl null 
+n wo null pl null 
+n lo null pl null 
+n loni null pl null 
+n mIxa null pl null 
+n na null pl null 
+n nuMdi null pl null 
+n xvArA null pl null 
+n valana null pl null 
+n ce null pl null 
+n wopAtu null pl null 
+n wokUdi null pl null 
+n kosaM null pl null 
+n koVraku null pl null 
+n lonuMdi null pl null 
+n mIxanuMdi null pl null 
+n xAkA null pl null 
+n varaku null pl null 
+n mIxaki null pl null 
+n xaggara null pl null 
+n vaxxa null pl null 
+n kAda null pl null 
+n keVxurugA null pl null 
+n muMxu null pl null 
+n guriMci null pl null 
+n pE null pl null 
+n pEki null pl null 
+n guMdA null pl null 
+n lA null pl null 
+n vale null pl null 
+n kimalle null pl null 
+n kUdA null pl null 
+n xqRtilo null pl null 
+n lekuMdA null pl null 
+n kAkuMdA null pl null 
+n moVxalukoVni null pl null 
+n vEpu null pl null 
+n pakka null pl null 
+n pakkalo null pl null 
+n lopalaki null pl null 
+n kiMxa null pl null 
+n duguna null pl null 
+n kriMxane null pl null 
+n veVnuka null pl null 
+n waravAwa null pl null 
+n eVxuruguMdA null pl null 
+n maXya null pl null 
+n naduma null pl null 
+n baxulugA null pl null 
+n cotlo null pl null 
+n sWAnaMlo null pl null 
+n nerugA null pl null 
+n prakAraM null pl null 
+n xaggaranuMdi null pl null 
+n vaxxanuMdi null pl null 
+n pakkanuMdi null pl null 
+n pakkalonuMdi null pl null 
+n lopalanuMdi null pl null 
+n bEtanuMdi null pl null 
+n pEnuMdi null pl null 
+n kiMxanuMdi null pl null 
+n kriMxanuMdi null pl null 
+n dugunuMdi null pl null 
+n muMxunuMdi null pl null 
+n veVnukanuMdi null pl null 
+n veVnukanuMci null pl null 
+n eVxutinuMdi null pl null 
+n maXyanuMdi null pl null 
+n maXyalonuMdi null pl null 
+n nadumanuMdi null pl null 
+n waravAwanuMdi null pl null 
+n cotlonuMdi null pl null 
+n sWAnaMnuMdi null pl null 
+n sWAnaMlonuMdi null pl null 
+n sWAnaMlonuMci null pl null 
+n aMxu null pl null 
+n aMte null pl null 
+n kaMteV null pl null 
+n Ena null pl null 
+n pAti null pl null 
+n lAti null pl null 
+n gAni null pl null 
+n gA null pl null 
+
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+pn 0 null sg null 
+pn I null sg null 
+pn gA null sg null 
+pn gAdu null sg null 
+pn gawweV null sg null 
+pn vAdu null sg null 
+pn Ayana null sg null 
+pn vAru null sg null 
+pn xi null sg null 
+pn vi null sg null 
+pn gAru null sg null 
+pn nu null sg null 
+pn vu null sg null 
+pn yoVkka null sg null 
+pn obl null sg null 
+pn ni null sg null 
+pn ki null sg null 
+pn wo null sg null 
+pn lo null sg null 
+pn loni null sg null 
+pn mIxa null sg null 
+pn na null sg null 
+pn nuMdi null sg null 
+pn xvArA null sg null 
+pn valana null sg null 
+pn ce null sg null 
+pn wopAtu null sg null 
+pn wokUdi null sg null 
+pn kosaM null sg null 
+pn koVraku null sg null 
+pn lonuMdi null sg null 
+pn mIxanuMdi null sg null 
+pn xAkA null sg null 
+pn varaku null sg null 
+pn mIxaki null sg null 
+pn xaggara null sg null 
+pn vaxxa null sg null 
+pn kAda null sg null 
+pn keVxurugA null sg null 
+pn muMxu null sg null 
+pn guriMci null sg null 
+pn pE null sg null 
+pn pEki null sg null 
+pn guMdA null sg null 
+pn lA null sg null 
+pn vale null sg null 
+pn kimalle null sg null 
+pn kUdA null sg null 
+pn xqRtilo null sg null 
+pn lekuMdA null sg null 
+pn kAkuMdA null sg null 
+pn moVxalukoVni null sg null 
+pn vEpu null sg null 
+pn pakka null sg null 
+pn pakkalo null sg null 
+pn lopalaki null sg null 
+pn kiMxa null sg null 
+pn duguna null sg null 
+pn kriMxane null sg null 
+pn veVnuka null sg null 
+pn waravAwa null sg null 
+pn eVxuruguMdA null sg null 
+pn maXya null sg null 
+pn naduma null sg null 
+pn baxulugA null sg null 
+pn cotlo null sg null 
+pn sWAnaMlo null sg null 
+pn nerugA null sg null 
+pn prakAraM null sg null 
+pn xaggaranuMdi null sg null 
+pn vaxxanuMdi null sg null 
+pn pakkanuMdi null sg null 
+pn pakkalonuMdi null sg null 
+pn lopalanuMdi null sg null 
+pn bEtanuMdi null sg null 
+pn pEnuMdi null sg null 
+pn kiMxanuMdi null sg null 
+pn kriMxanuMdi null sg null 
+pn dugunuMdi null sg null 
+pn muMxunuMdi null sg null 
+pn veVnukanuMdi null sg null 
+pn veVnukanuMci null sg null 
+pn eVxutinuMdi null sg null 
+pn maXyanuMdi null sg null 
+pn maXyalonuMdi null sg null 
+pn nadumanuMdi null sg null 
+pn waravAwanuMdi null sg null 
+pn cotlonuMdi null sg null 
+pn sWAnaMnuMdi null sg null 
+pn sWAnaMlonuMdi null sg null 
+pn sWAnaMlonuMci null sg null 
+pn aMxu null sg null 
+pn aMte null sg null 
+pn kaMteV null sg null 
+pn Ena null sg null 
+pn pAti null sg null 
+pn lAti null sg null 
+pn gAni null sg null 
+pn gA null sg null 
+pn 0 null pl null 
+pn I null pl null 
+pn gA null pl null 
+pn gAdu null pl null 
+pn gawweV null pl null 
+pn vAdu null pl null 
+pn Ayana null pl null 
+pn vAru null pl null 
+pn xi null pl null 
+pn vi null pl null 
+pn gAru null pl null 
+pn nu null pl null 
+pn vu null pl null 
+pn yoVkka null pl null 
+pn obl null pl null 
+pn ni null pl null 
+pn ki null pl null 
+pn wo null pl null 
+pn lo null pl null 
+pn loni null pl null 
+pn mIxa null pl null 
+pn na null pl null 
+pn nuMdi null pl null 
+pn xvArA null pl null 
+pn valana null pl null 
+pn ce null pl null 
+pn wopAtu null pl null 
+pn wokUdi null pl null 
+pn kosaM null pl null 
+pn koVraku null pl null 
+pn lonuMdi null pl null 
+pn mIxanuMdi null pl null 
+pn xAkA null pl null 
+pn varaku null pl null 
+pn mIxaki null pl null 
+pn xaggara null pl null 
+pn vaxxa null pl null 
+pn kAda null pl null 
+pn keVxurugA null pl null 
+pn muMxu null pl null 
+pn guriMci null pl null 
+pn pE null pl null 
+pn pEki null pl null 
+pn guMdA null pl null 
+pn lA null pl null 
+pn vale null pl null 
+pn kimalle null pl null 
+pn kUdA null pl null 
+pn xqRtilo null pl null 
+pn lekuMdA null pl null 
+pn kAkuMdA null pl null 
+pn moVxalukoVni null pl null 
+pn vEpu null pl null 
+pn pakka null pl null 
+pn pakkalo null pl null 
+pn lopalaki null pl null 
+pn kiMxa null pl null 
+pn duguna null pl null 
+pn kriMxane null pl null 
+pn veVnuka null pl null 
+pn waravAwa null pl null 
+pn eVxuruguMdA null pl null 
+pn maXya null pl null 
+pn naduma null pl null 
+pn baxulugA null pl null 
+pn cotlo null pl null 
+pn sWAnaMlo null pl null 
+pn nerugA null pl null 
+pn prakAraM null pl null 
+pn xaggaranuMdi null pl null 
+pn vaxxanuMdi null pl null 
+pn pakkanuMdi null pl null 
+pn pakkalonuMdi null pl null 
+pn lopalanuMdi null pl null 
+pn bEtanuMdi null pl null 
+pn pEnuMdi null pl null 
+pn kiMxanuMdi null pl null 
+pn kriMxanuMdi null pl null 
+pn dugunuMdi null pl null 
+pn muMxunuMdi null pl null 
+pn veVnukanuMdi null pl null 
+pn veVnukanuMci null pl null 
+pn eVxutinuMdi null pl null 
+pn maXyanuMdi null pl null 
+pn maXyalonuMdi null pl null 
+pn nadumanuMdi null pl null 
+pn waravAwanuMdi null pl null 
+pn cotlonuMdi null pl null 
+pn sWAnaMnuMdi null pl null 
+pn sWAnaMlonuMdi null pl null 
+pn sWAnaMlonuMci null pl null 
+pn aMxu null pl null 
+pn aMte null pl null 
+pn kaMteV null pl null 
+pn Ena null pl null 
+pn pAti null pl null 
+pn lAti null pl null 
+pn gAni null pl null 
+pn gA null pl null 
+pn 0_e null sg null 
+pn ki_e null sg null 
+pn xi_e null sg null 
+pn vi_e null sg null 
+pn ni_e null sg null 
+pn wo_e null sg null 
+pn lo_e null sg null 
+pn lA_e null sg null 
+pn pEna_e null sg null 
+pn 0_A null sg null 
+pn ki_A null sg null 
+pn xi_A null sg null 
+pn vi_A null sg null 
+pn ni_A null sg null 
+pn wo_A null sg null 
+pn lo_A null sg null 
+pn lA_A null sg null 
+pn pEna_A null sg null 
+pn 0_o null sg null 
+pn ki_o null sg null 
+pn xi_o null sg null 
+pn vi_o null sg null 
+pn ni_o null sg null 
+pn wo_o null sg null 
+pn lo_o null sg null 
+pn lA_o null sg null 
+pn pEna_o null sg null 
+pn 0_V null sg null 
+pn ki_V null sg null 
+pn xi_V null sg null 
+pn vi_V null sg null 
+pn ni_V null sg null 
+pn wo_V null sg null 
+pn lo_V null sg null 
+pn lA_V null sg null 
+pn pEna_V null sg null 
+pn 0_e null pl null 
+pn ki_e null pl null 
+pn xi_e null pl null 
+pn vi_e null pl null 
+pn ni_e null pl null 
+pn wo_e null pl null 
+pn lo_e null pl null 
+pn lA_e null pl null 
+pn pEna_e null pl null 
+pn 0_A null pl null 
+pn ki_A null pl null 
+pn xi_A null pl null 
+pn vi_A null pl null 
+pn ni_A null pl null 
+pn wo_A null pl null 
+pn lo_A null pl null 
+pn lA_A null pl null 
+pn pEna_A null pl null 
+pn 0_o null pl null 
+pn ki_o null pl null 
+pn xi_o null pl null 
+pn vi_o null pl null 
+pn ni_o null pl null 
+pn wo_o null pl null 
+pn lo_o null pl null 
+pn lA_o null pl null 
+pn pEna_o null pl null 
+pn 0_V null pl null 
+pn ki_V null pl null 
+pn xi_V null pl null 
+pn vi_V null pl null 
+pn ni_V null pl null 
+pn wo_V null pl null 
+pn lo_V null pl null 
+pn lA_V null pl null 
+pn pEna_V null pl null 

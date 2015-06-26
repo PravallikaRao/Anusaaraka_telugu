@@ -1,0 +1,66 @@
+02-04-2012  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.7
+
+	1. Code is been enhanced.
+
+02-04-2012  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.5.3
+
+	1. Code is been enhanced.
+	2. word smoother is added
+
+
+31-01-2011  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.5.2
+
+	1.Code is been enhanced.
+
+19-04-2010  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.5.1
+
+	1.Code is been enhanced.
+
+31-10-2009  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.5
+
+	1.Secondray  feature values have been implemented.
+
+18-09-2009  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.4
+
+	1.Some more gender problesm 
+	
+	
+05-07-2009  christopher  <christopher@research.iiit.ac.in>
+	* Version 2.3
+
+	1. Gender problems has been solved
+	2.pronouns has been resolved.
+
+07-01-2009  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.1
+
+	1.Changed according to software engineering aspects suggested by Rashid.
+	2. Gender problems has been solved
+
+07-01-2009  christopher  <christopher@research.iiit.ac.in>
+
+	* Version 2.0
+
+	1.This version has been modified according to the software engineering
+	  aspects suggested by Rashid.
+	2. The database has been improved and able to handle all the verbs and
+	   pronouns
+
+10-11-2008  christopher <christopher@research.iiit.ac.in>
+	
+	* Version 1.0
+
+	1.Base version.

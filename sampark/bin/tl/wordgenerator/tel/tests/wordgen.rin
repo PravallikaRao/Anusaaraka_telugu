@@ -1,0 +1,33 @@
+<Sentence id="1">
+1	((	NP	
+1.1	piCalI	NN	<fs af='piCalI,unk,,,,,,'>
+1.2	sAla	NN	<fs af='sAla,n,m,sg,,o,,' conj="blank" spec="AND" dubi="blank">
+	))		
+2	((	JJP	
+2.1	pawA	JJ	<fs af='pawA,n,m,sg,,o,,' conj="blank" spec="AND" dubi="blank">
+	))		
+3	((	VGF	
+3.1	nahIM	NEG	<fs af='nahIM,adv,,,,,,'>
+	))		
+4	((	NP	
+4.1	kOna	WQ	<fs af='kOna,pn,any,sg,1,d,,'>
+4.2	sI	RP	<fs af='sI,v,any,any,any,,0,0'>
+	))		
+5	((	NP	
+5.1	bImArI	PRP	<fs af='bImArI,n,f,sg,,o,,' conj="blank" spec="AND" dubi="blank">
+5.2	lagI	VAUX	<fs af='laga,v,f,sg,any,,yA,yA'>
+	))		
+6	((	CCP	
+6.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+7	((	NP	
+7.1	vaha	PRP	<fs af='vaha,pn,any,sg,1,d,,'>
+	))		
+8	((	VGF	
+8.1	cala	VM	<fs af='cala,v,any,any,any,,0,0'>
+	))		
+9	((	NP	
+9.1	basI	NN	<fs af='basa,v,f,sg,any,,yA,yA'>
+9.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
